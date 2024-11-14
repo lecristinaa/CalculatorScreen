@@ -1,0 +1,27 @@
+{
+  "expo": {
+    "name": "loginscreen---4bim",
+    "slug": "snack-18fe64a8-1a3e-45a1-9fb7-457628dd04ce",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",  
+      "resizeMode": "contain",        
+      "backgroundColor": "#EAE8FF" 
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
